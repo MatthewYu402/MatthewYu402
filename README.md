@@ -6,6 +6,6 @@ I am interested in backend engineering, but more specifically low-level and syst
 - [Green Leaf Website](https://github.com/MatthewYu402/green_leaf_restarant_website): website for my family's local restaurant, based in Hunt Valley, MD
 - [LeetCode Visualizer](https://github.com/MatthewYu402/LeetCode-Visualizer): LeetCode visualizer allowing you to step though your solution to learn and debug (current project)
 
-**University of Wisconsin-Madison** - **B.S. Computer Science, Data Science**
+**University of Wisconsin-Madison** - **B.S. Computer Science \& Data Science**
 
 [Email](mailto:myu22826@gmail.com) $\cdot$ [Personal Portfolio](https://matthewyu402.github.io/portfolio/) $\cdot$ [LinkedIn](https://www.linkedin.com/in/matthewyu-dev/)

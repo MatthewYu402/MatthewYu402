@@ -7,6 +7,7 @@ I am interested in backend engineering, but more specifically low-level and syst
 ### Personal Projects
 - [CHIP-8 Emulator](https://github.com/MatthewYu402/CHIP-8): a CHIP-8 emulator that allows you to play CHIP-8 ROMs like Pong, Space Invaders, and Tetris
 - [Green Leaf Website](https://github.com/MatthewYu402/green_leaf_restarant_website): website for my family's local restaurant, based in Hunt Valley, MD
+- [LeetCode Tracker](https://github.com/MatthewYu402/LeetCode-Tracker): LeetCode problem tracker where you can rate difficulty, write down notes, and upload pdf notes
 
 
 **University of Wisconsin-Madison** - **B.S. Computer Science \& Data Science**

@@ -7,9 +7,9 @@ A LeetCode visualizer allowing you to paste an unmodified LeetCode Solution in C
 Click here to view: [www.visicode.dev/](https://visicode.dev/)
 
 ### Personal Projects
-- [CHIP-8 Emulator](https://github.com/MatthewYu402/CHIP-8): a CHIP-8 emulator that allows you to play CHIP-8 ROMs like Pong, Space Invaders, and Tetris
-- [Green Leaf Website](https://github.com/MatthewYu402/green_leaf_restarant_website): website for my family's local restaurant, based in Hunt Valley, MD
-- [LeetCode Tracker](https://github.com/MatthewYu402/LeetCode-Tracker): LeetCode problem tracker where you can rate difficulty, write down notes, and upload pdf notes
+- [CHIP-8 Emulator](https://github.com/MatthewYu402/CHIP-8): a CHIP-8 emulator that allows you to play CHIP-8 ROMs like Pong, Space Invaders, and Tetris.
+- [Green Leaf Website](https://github.com/MatthewYu402/green_leaf_restarant_website): website for my family's local restaurant, based in Hunt Valley, MD. View here: [greenleafcuisine.com](https://greenleafcuisine.com/)
+- [LeetCode Tracker](https://github.com/MatthewYu402/LeetCode-Tracker): LeetCode problem tracker where you can rate difficulty, write down notes, and upload pdf notes.
 
 
 **University of Wisconsin-Madison** - **B.S. Computer Science \& Data Science**

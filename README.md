@@ -1,5 +1,5 @@
 # Matthew Yu
-I am interested in backend engineering, but more specifically low-level and systems programming. I care about simple design for complex tasks. Based in Maryland.
+I am interested in backend engineering, but more specifically low-level and systems programming. I care about simple design for complex tasks.
 
 ### [Visi](https://github.com/MatthewYu402/LeetCode-Visualizer)
 An algorithm visualizer allowing you to paste a `Solution` class in C++, Java, or Python, run it on an example, and step through it line by line while data structures and and the recursion call stack are drawn as they change.
